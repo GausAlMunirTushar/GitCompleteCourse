@@ -1,5 +1,5 @@
 logs/
-bin/
+bin/app.bin
 .log
 *.log
 main.js
