@@ -1,0 +1,4 @@
+logs/
+.log
+*.log
+main.js
